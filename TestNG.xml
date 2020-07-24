@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="InetBankingV1">
+
+	<listeners>
+		<listener class-name="com.inetbanking.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="BankingApp Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+	 		
+			<!--  For Simple test case by passing static value  -->
+		<!--<class name="com.inetbanking.testCases.TC_LoginTest_001" />  -->
+			
+			<!--  For Data Driven test case  -->
+	<!-- <class name="com.inetbanking.testCases.TC_LoginDDT_002" /> -->
+
+        
+        	<!--  For Simple test case for add customer by passing static value  -->
+		<!--	<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" />  -->
+			
+			<!--  Run All  test case  -->
+			<class name="com.inetbanking.testCases.TC_LoginTest_001" />
+		    <class name="com.inetbanking.testCases.TC_LoginDDT_002" />
+			<class name="com.inetbanking.testCases.TC_AddCustomerTest_003" />
+			
+		</classes>
+
+	</test>
+
+</suite>

@@ -1,0 +1,340 @@
+2020-07-18 21:08:33,771 - ebanking -INFO - URL is Open
+2020-07-18 21:08:34,011 - ebanking -INFO - Enter Username
+2020-07-18 21:08:34,210 - ebanking -INFO - Enter Password
+2020-07-18 21:08:36,293 - ebanking -INFO - Login Test Pass
+2020-07-19 10:50:24,386 - ebanking -INFO - URL is Open
+2020-07-19 13:57:10,325 - ebanking -INFO - URL is Open
+2020-07-19 13:59:58,193 - ebanking -INFO - URL is Open
+2020-07-19 13:59:58,534 - ebanking -INFO - Enter Username
+2020-07-19 13:59:58,713 - ebanking -INFO - Enter Password
+2020-07-19 14:00:00,918 - ebanking -INFO - Login Test Pass
+2020-07-19 14:04:34,469 - ebanking -INFO - URL is Open
+2020-07-19 14:04:34,761 - ebanking -INFO - Enter Username
+2020-07-19 14:04:35,030 - ebanking -INFO - Enter Password
+2020-07-19 14:04:37,597 - ebanking -INFO - Login Test Pass
+2020-07-19 14:50:53,355 - ebanking -INFO - URL is Open
+2020-07-19 14:51:03,762 - ebanking -INFO - Enter Username
+2020-07-19 14:51:04,124 - ebanking -INFO - Enter Password
+2020-07-19 14:52:14,378 - ebanking -INFO - URL is Open
+2020-07-19 14:52:14,652 - ebanking -INFO - Enter Username
+2020-07-19 14:52:14,828 - ebanking -INFO - Enter Password
+2020-07-19 14:52:17,360 - ebanking -INFO - Login Test Pass
+2020-07-19 15:00:32,458 - ebanking -INFO - URL is Open
+2020-07-19 15:00:32,747 - ebanking -INFO - Enter Username
+2020-07-19 15:00:32,935 - ebanking -INFO - Enter Password
+2020-07-19 15:00:35,094 - ebanking -INFO - Login Test Pass
+2020-07-19 15:50:17,559 - ebanking -INFO - URL is Open
+2020-07-19 15:50:19,782 - ebanking -INFO - Enter Username
+2020-07-19 15:50:20,849 - ebanking -INFO - Enter Password
+2020-07-19 15:50:55,360 - ebanking -INFO - URL is Open
+2020-07-19 15:50:55,648 - ebanking -INFO - Enter Username
+2020-07-19 15:50:55,838 - ebanking -INFO - Enter Password
+2020-07-19 15:50:57,965 - ebanking -INFO - Login Test Pass
+2020-07-19 16:01:10,854 - ebanking -INFO - URL is Open
+2020-07-19 16:01:33,670 - ebanking -INFO - Enter Username
+2020-07-19 16:01:33,938 - ebanking -INFO - Enter Password
+2020-07-19 16:01:37,724 - ebanking -INFO - Login Test Pass
+2020-07-19 19:15:54,323 - ebanking -INFO - URL is Open
+2020-07-19 19:15:54,751 - ebanking -INFO - Enter Username
+2020-07-19 19:15:54,913 - ebanking -INFO - Enter Password
+2020-07-19 19:16:57,094 - ebanking -INFO - URL is Open
+2020-07-19 19:16:57,371 - ebanking -INFO - Enter Username
+2020-07-19 19:16:57,584 - ebanking -INFO - Enter Password
+2020-07-20 10:06:19,066 - ebanking -INFO - Enter Username
+2020-07-20 10:06:19,819 - ebanking -INFO - Enter Password
+2020-07-20 10:06:27,950 - ebanking -INFO - Login Passed
+2020-07-20 10:06:41,903 - ebanking -INFO - Enter Username
+2020-07-20 10:06:42,060 - ebanking -INFO - Enter Password
+2020-07-20 10:06:49,858 - ebanking -INFO - Enter Username
+2020-07-20 10:06:49,997 - ebanking -INFO - Enter Password
+2020-07-20 10:06:54,939 - ebanking -INFO - Login Passed
+2020-07-20 10:07:02,369 - ebanking -INFO - Enter Username
+2020-07-20 10:07:02,498 - ebanking -INFO - Enter Password
+2020-07-20 10:07:09,055 - ebanking -INFO - Enter Username
+2020-07-20 10:07:09,269 - ebanking -INFO - Enter Password
+2020-07-20 11:43:35,666 - ebanking -INFO - User name is provided
+2020-07-20 11:43:36,540 - ebanking -INFO - Passsword is provided
+2020-07-20 11:43:44,972 - ebanking -INFO - providing customer details....
+2020-07-20 11:43:56,876 - ebanking -INFO - validation started....
+2020-07-20 11:43:56,981 - ebanking -INFO - test case passed....
+2020-07-20 11:57:27,829 - ebanking -INFO - URL is Open
+2020-07-20 11:57:30,411 - ebanking -INFO - Enter Username
+2020-07-20 11:57:30,647 - ebanking -INFO - Enter Password
+2020-07-20 11:58:09,550 - ebanking -INFO - Enter Username
+2020-07-20 11:58:10,164 - ebanking -INFO - Enter Password
+2020-07-20 11:58:17,217 - ebanking -INFO - Login Passed
+2020-07-20 11:58:25,220 - ebanking -INFO - Enter Username
+2020-07-20 11:58:25,351 - ebanking -INFO - Enter Password
+2020-07-20 11:58:31,401 - ebanking -INFO - Enter Username
+2020-07-20 11:58:31,536 - ebanking -INFO - Enter Password
+2020-07-20 11:58:36,212 - ebanking -INFO - Login Passed
+2020-07-20 11:58:43,022 - ebanking -INFO - Enter Username
+2020-07-20 11:58:43,128 - ebanking -INFO - Enter Password
+2020-07-20 11:58:49,319 - ebanking -INFO - Enter Username
+2020-07-20 11:58:49,435 - ebanking -INFO - Enter Password
+2020-07-20 11:59:12,064 - ebanking -INFO - User name is provided
+2020-07-20 11:59:12,242 - ebanking -INFO - Passsword is provided
+2020-07-20 11:59:23,626 - ebanking -INFO - providing customer details....
+2020-07-20 11:59:37,352 - ebanking -INFO - validation started....
+2020-07-20 11:59:37,379 - ebanking -INFO - test case passed....
+2020-07-20 12:04:20,207 - ebanking -INFO - URL is Open
+2020-07-20 12:04:26,063 - ebanking -INFO - Enter Username
+2020-07-20 12:04:26,227 - ebanking -INFO - Enter Password
+2020-07-20 12:04:51,998 - ebanking -INFO - Enter Username
+2020-07-20 12:04:57,867 - ebanking -INFO - Enter Password
+2020-07-20 12:05:08,020 - ebanking -INFO - Enter Username
+2020-07-20 12:05:08,122 - ebanking -INFO - Enter Password
+2020-07-20 12:05:15,183 - ebanking -INFO - Enter Username
+2020-07-20 12:05:15,300 - ebanking -INFO - Enter Password
+2020-07-20 12:07:13,085 - ebanking -INFO - URL is Open
+2020-07-20 12:07:16,328 - ebanking -INFO - Enter Username
+2020-07-20 12:07:17,568 - ebanking -INFO - Enter Password
+2020-07-20 12:07:44,373 - ebanking -INFO - Enter Username
+2020-07-20 12:07:44,618 - ebanking -INFO - Enter Password
+2020-07-20 12:07:51,689 - ebanking -INFO - Enter Username
+2020-07-20 12:07:51,847 - ebanking -INFO - Enter Password
+2020-07-20 12:07:57,925 - ebanking -INFO - Enter Username
+2020-07-20 12:07:58,100 - ebanking -INFO - Enter Password
+2020-07-23 13:01:16,542 - ebanking -INFO - URL is Open
+2020-07-23 13:01:22,099 - ebanking -INFO - Enter Username
+2020-07-23 13:01:22,624 - ebanking -INFO - Enter Password
+2020-07-23 13:02:29,608 - ebanking -INFO - Enter Username
+2020-07-23 13:02:30,583 - ebanking -INFO - Enter Password
+2020-07-23 13:02:39,791 - ebanking -INFO - Login Passed
+2020-07-23 13:02:52,518 - ebanking -INFO - Enter Username
+2020-07-23 13:02:52,652 - ebanking -INFO - Enter Password
+2020-07-23 13:02:58,948 - ebanking -INFO - Enter Username
+2020-07-23 13:02:59,081 - ebanking -INFO - Enter Password
+2020-07-23 13:03:04,653 - ebanking -INFO - Login Passed
+2020-07-23 13:03:14,185 - ebanking -INFO - Enter Username
+2020-07-23 13:03:14,309 - ebanking -INFO - Enter Password
+2020-07-23 13:03:22,411 - ebanking -INFO - Enter Username
+2020-07-23 13:03:22,587 - ebanking -INFO - Enter Password
+2020-07-23 13:03:49,475 - ebanking -INFO - User name is provided
+2020-07-23 13:03:49,737 - ebanking -INFO - Passsword is provided
+2020-07-23 13:04:05,924 - ebanking -INFO - providing customer details....
+2020-07-23 13:04:20,538 - ebanking -INFO - validation started....
+2020-07-23 13:04:20,596 - ebanking -INFO - test case passed....
+2020-07-23 13:13:29,916 - ebanking -INFO - URL is Open
+2020-07-23 13:13:30,209 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 13:13:30,412 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 13:13:33,633 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 13:13:53,423 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:13:53,564 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:14:00,472 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:14:08,513 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:14:08,771 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:14:16,315 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:14:16,526 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:14:34,943 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 13:14:35,218 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 13:14:41,663 - ebanking -INFO - Providing Customer Details....
+2020-07-23 13:14:58,806 - ebanking -INFO - Validation Started....
+2020-07-23 13:14:58,856 - ebanking -INFO - Test Case3  passed....
+2020-07-23 13:20:44,842 - ebanking -INFO - URL is Open
+2020-07-23 13:20:45,219 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 13:20:45,448 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 13:20:48,658 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 13:21:06,998 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:21:10,004 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:21:17,429 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:21:26,119 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:21:26,258 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:21:34,059 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:21:34,215 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:21:53,849 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 13:21:54,098 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 13:22:01,035 - ebanking -INFO - Providing Customer Details....
+2020-07-23 13:22:17,146 - ebanking -INFO - Validation Started....
+2020-07-23 13:22:17,169 - ebanking -INFO - Test Case3  passed....
+2020-07-23 13:24:21,022 - ebanking -INFO - URL is Open
+2020-07-23 13:24:21,294 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 13:24:21,476 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 13:24:24,339 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 13:24:42,893 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:24:43,108 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:24:47,854 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:24:54,690 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:24:54,865 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:25:02,390 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:25:10,109 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:25:10,294 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:25:16,339 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:25:25,317 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:25:25,521 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:25:30,523 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:25:38,793 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:25:38,926 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:25:44,042 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:26:17,224 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 13:26:17,436 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 13:26:23,640 - ebanking -INFO - Providing Customer Details....
+2020-07-23 13:26:36,186 - ebanking -INFO - Validation Started....
+2020-07-23 13:26:36,223 - ebanking -INFO - Test Case3  passed....
+2020-07-23 13:48:48,048 - ebanking -INFO - URL is Open
+2020-07-23 13:48:50,704 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 13:48:50,890 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 13:48:54,532 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 13:49:46,105 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:49:46,284 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:49:53,718 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:49:53,840 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:50:00,014 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:50:00,087 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:50:03,208 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:50:27,948 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 13:50:28,103 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 13:50:37,623 - ebanking -INFO - Providing Customer Details....
+2020-07-23 13:50:53,874 - ebanking -INFO - Validation Started....
+2020-07-23 13:50:53,890 - ebanking -INFO - Test Case3  passed....
+2020-07-23 13:54:58,973 - ebanking -INFO - URL is Open
+2020-07-23 13:54:59,873 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 13:55:00,126 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 13:55:04,015 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 13:55:37,156 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:55:37,455 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:55:44,516 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:55:50,999 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:55:51,166 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:55:59,177 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:55:59,427 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:56:05,087 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:56:12,574 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:56:12,798 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:56:33,947 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 13:56:34,227 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 13:56:41,897 - ebanking -INFO - Providing Customer Details....
+2020-07-23 13:56:55,194 - ebanking -INFO - Validation Started....
+2020-07-23 13:56:55,218 - ebanking -INFO - Test Case3  passed....
+2020-07-23 13:58:15,251 - ebanking -INFO - URL is Open
+2020-07-23 13:58:15,551 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 13:58:15,869 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 13:58:18,777 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 13:58:44,148 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:58:44,323 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:58:51,962 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:59:00,222 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:59:00,439 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:59:06,312 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:59:06,423 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:59:12,663 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 13:59:22,501 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 13:59:22,629 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 13:59:46,429 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 13:59:46,593 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 13:59:58,920 - ebanking -INFO - Providing Customer Details....
+2020-07-23 14:00:15,788 - ebanking -INFO - Validation Started....
+2020-07-23 14:00:15,807 - ebanking -INFO - Test Case3  passed....
+2020-07-23 15:42:32,690 - ebanking -INFO - URL is Open
+2020-07-23 15:42:33,259 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 15:42:33,480 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 15:42:36,542 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 15:42:59,261 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:42:59,491 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:43:03,869 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 15:43:12,556 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:43:12,671 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:43:20,023 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:43:20,142 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:43:26,497 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:43:26,599 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:43:32,036 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 15:43:40,347 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:43:40,453 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:44:03,529 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 15:44:03,727 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 15:44:12,796 - ebanking -INFO - Providing Customer Details....
+2020-07-23 15:44:24,229 - ebanking -INFO - Validation Started....
+2020-07-23 15:44:24,247 - ebanking -INFO - Test Case3  passed....
+2020-07-23 15:46:48,457 - ebanking -INFO - URL is Open
+2020-07-23 15:46:48,842 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 15:46:49,107 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 15:46:52,264 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 15:47:14,073 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:47:14,378 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:47:20,471 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 15:47:27,587 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:47:27,810 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:47:33,807 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:47:33,977 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:47:39,738 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:47:39,897 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:47:44,872 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 15:47:53,865 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:47:54,028 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:48:15,873 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 15:48:16,113 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 15:48:24,094 - ebanking -INFO - Providing Customer Details....
+2020-07-23 15:48:36,190 - ebanking -INFO - Validation Started....
+2020-07-23 15:48:36,228 - ebanking -INFO - Test Case3  passed....
+2020-07-23 15:55:22,472 - ebanking -INFO - URL is Open
+2020-07-23 15:55:22,937 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 15:55:23,223 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 15:55:25,819 - ebanking -INFO - Login Test Case1 Pass
+2020-07-23 15:55:48,248 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:55:48,472 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:55:52,653 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 15:55:59,187 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:55:59,363 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:56:05,802 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:56:05,979 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:56:12,441 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:56:12,613 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:56:17,583 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 15:56:25,214 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 15:56:25,355 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 15:56:45,971 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 15:56:46,266 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 15:56:58,087 - ebanking -INFO - Providing Customer Details....
+2020-07-23 15:57:11,904 - ebanking -INFO - Validation Started....
+2020-07-23 15:57:11,923 - ebanking -INFO - Test Case3  passed....
+2020-07-23 18:06:43,033 - ebanking -INFO - URL is Open
+2020-07-23 18:06:44,831 - ebanking -INFO - Enter Username for Test Case1
+2020-07-23 18:06:44,941 - ebanking -INFO - Enter Password for Test Case1
+2020-07-23 18:07:53,905 - ebanking -INFO - Enter Username for Test Case2
+2020-07-23 18:08:09,767 - ebanking -INFO - Enter Password for Test Case2
+2020-07-23 18:08:37,467 - ebanking -INFO - Login Test Case2 Passed
+2020-07-23 18:10:22,253 - ebanking -INFO - Enter User name for Test Case3
+2020-07-23 18:10:40,079 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-23 18:11:11,707 - ebanking -INFO - Providing Customer Details....
+2020-07-24 09:03:27,430 - ebanking -INFO - URL is Open
+2020-07-24 09:03:37,362 - ebanking -INFO - Enter Username for Test Case1
+2020-07-24 09:03:38,204 - ebanking -INFO - Enter Password for Test Case1
+2020-07-24 09:03:42,208 - ebanking -INFO - Login Test Case1 Pass
+2020-07-24 09:04:10,125 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 09:04:10,292 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 09:04:16,108 - ebanking -INFO - Login Test Case2 Passed
+2020-07-24 09:04:24,555 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 09:04:24,882 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 09:04:30,781 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 09:04:30,958 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 09:04:36,698 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 09:04:36,908 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 09:04:42,116 - ebanking -INFO - Login Test Case2 Passed
+2020-07-24 09:04:49,327 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 09:04:49,461 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 09:05:20,454 - ebanking -INFO - Enter User name for Test Case3
+2020-07-24 09:05:20,655 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-24 09:05:30,985 - ebanking -INFO - Providing Customer Details....
+2020-07-24 09:05:42,803 - ebanking -INFO - Validation Started....
+2020-07-24 09:05:42,868 - ebanking -INFO - Test Case3  passed....
+2020-07-24 10:19:20,915 - ebanking -INFO - URL is Open
+2020-07-24 10:19:29,297 - ebanking -INFO - Enter Username for Test Case1
+2020-07-24 10:19:29,431 - ebanking -INFO - Enter Password for Test Case1
+2020-07-24 10:20:55,870 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 10:21:15,121 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 10:21:43,305 - ebanking -INFO - Login Test Case2 Passed
+2020-07-24 10:21:55,709 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 10:21:55,918 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 10:22:02,219 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 10:22:02,429 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 10:22:08,516 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 10:22:08,738 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 10:22:13,764 - ebanking -INFO - Login Test Case2 Passed
+2020-07-24 10:22:21,171 - ebanking -INFO - Enter Username for Test Case2
+2020-07-24 10:22:21,359 - ebanking -INFO - Enter Password for Test Case2
+2020-07-24 10:22:45,167 - ebanking -INFO - Enter User name for Test Case3
+2020-07-24 10:22:45,418 - ebanking -INFO - Enter Passsword for Test Case3
+2020-07-24 10:22:58,717 - ebanking -INFO - Providing Customer Details....
+2020-07-24 10:23:11,456 - ebanking -INFO - Validation Started....
+2020-07-24 10:23:11,517 - ebanking -INFO - Test Case3  passed....
