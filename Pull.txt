@@ -1,1 +1,16 @@
-This is test file for pull . git pull origin master.
+This is test file for pull from git repository. 
+git pull origin master.
+
+
+
+This is test file2 for push. 
+git status
+git add -A
+git status
+git commit -m " Second Commit  Pull.txt file modified"
+git push origin master
+
+
+
+
+
